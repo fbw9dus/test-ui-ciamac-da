@@ -1,0 +1,22 @@
+{
+  "name": "test-ui-ciamac-da",
+  "version": "1.0.0",
+  "description": "Projekt für Test im UI Modul",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbw9dus/test-ui-ciamac-da.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbw9dus/test-ui-ciamac-da/issues"
+  },
+  "homepage": "https://github.com/fbw9dus/test-ui-ciamac-da#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}

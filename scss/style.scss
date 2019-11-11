@@ -1,0 +1,39 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+@font-face {
+      font-family: GothamFont;
+      src: url(./../fonts/Gotham-Rounded/GothamRoundedBold_21016.ttf);
+    }
+body{
+      font-family:GothamFont;
+.rounded{
+      width: 20px;
+      height: 20px;
+}
+.cia0{
+      color: purple;
+}
+
+.cia1{
+  font-size: 20px;   
+  margin-left: 80px;
+}
+.cia2{
+      font-size: 16px;
+
+}
+.cia3{
+      background-image: url(./../images/bg.jpg);
+      height: 450px;
+}
+.cia-text{
+      font-size: 20px;
+      align-self: center;
+}
+.cia4{
+      background-color: purple;
+
+}
+.card{
+      font-size: 15px;
+}
+}
